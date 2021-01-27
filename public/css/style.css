@@ -192,9 +192,10 @@ li{
            width: 452px;
        }
        video:nth-child(2){
-        height: 31rem;
-        width: 31rem;
+        height: 17rem;
+        width: 22rem;
         margin-top: -4rem;
+        margin-left: -4.7rem;
        }
 
     .main_content{
