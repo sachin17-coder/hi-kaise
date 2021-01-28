@@ -173,3 +173,12 @@ let leave = document.querySelector('.right_controls')
 leave.addEventListener('click', () => {
     myVideo.remove()
 })
+
+
+
+
+let main_control = document.querySelector('.main_controls')
+let hamber = document.querySelector('.hamber')
+hamber.addEventListener('click', ()=>{
+main_control.classList.toggle('mumu')
+})
